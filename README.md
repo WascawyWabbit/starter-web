@@ -15,6 +15,7 @@ blah
 ## Moo
 
 ## bah
+baa!
 
 ## oink
 oink indeed! More changes from MyFeature
